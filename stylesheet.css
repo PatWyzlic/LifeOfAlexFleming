@@ -1,0 +1,54 @@
+#fullPage{
+    background-color: black;
+  }
+  
+#backBox{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    height: 100%;
+    background-color: #E7E6E5;
+  }
+  
+#timeLine{
+    background-color: white;
+    display: block;
+    width: 70%;
+    padding: 2%; 
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+.topTitle{
+    text-align: center; 
+  }
+  
+.imageBoxFormatting{
+    background-color: white; 
+    display: block;
+    text-align: center;
+    width: 50%;
+    padding-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+.imageFormatting{
+    width: 90%;
+  }
+
+#closeImage{
+    position: relative;
+    top: -10px;
+}
+
+.listLineHeight{
+    line-height: 20px;
+}
+
+footer{
+    font-size: 10px;
+    text-align: center;
+    padding: 10px;
+    background-color: #E7E6E5;
+}
